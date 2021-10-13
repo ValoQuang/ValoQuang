@@ -1,16 +1,15 @@
-### Hi there 👋
+ <img src="https://images.theconversation.com/files/298515/original/file-20191024-170449-1gpmbty.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop" /> 
+ 
+ <h1>console.log(HELLO WORLD!) - WHERE THE PAIN, HOPE, DREAM STARTED</h1>
 
-<!--
-**ValoQuang/ValoQuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Quang Truong. I am passionate full-stack developer, at the moment I am concentrating on Front-end as the first step to fire my career.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on React, Node Js, Express Js, CSS, HTML5, 
+- 🌱 I’m currently learning Firebase, MongoDb
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with React, front-end project in general
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to be friend with me: please call 0406433423
+
+-  👨‍✈️🛫🛬 🥓🍟🌭🍕🍗🥩🍣🍜🍛 😄🦈
+
