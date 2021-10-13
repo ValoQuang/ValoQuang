@@ -1,4 +1,4 @@
- <img src="https://images.theconversation.com/files/298515/original/file-20191024-170449-1gpmbty.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop" /> 
+ <img src="https://images.theconversation.com/files/298515/original/file-20191024-170449-1gpmbty.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=500.0&fit=crop" /> 
  
  <h1>console.log(HELLO WORLD!) - WHERE THE PAIN, HOPE, DREAM STARTED</h1>
 
