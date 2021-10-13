@@ -8,7 +8,7 @@ My name is Quang Truong. I am passionate full-stack developer, at the moment I a
 - 🌱 I’m currently learning Firebase, MongoDb
 
 - 🤔 I’m looking for help with React, front-end project in general
-- 💬 Ask me about ...
+- 💬 I can fetch API, useState, export import stuff...
 - 📫 How to be friend with me: please call 0406433423
 
 -  👨‍✈️🛫🛬 🥓🍟🌭🍕🍗🥩🍣🍜🍛 😄🦈
