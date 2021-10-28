@@ -31,8 +31,8 @@ I am junior develop
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ValoQuang&repo=PackageTemplate&show_owner=true)](https://github.com/ValoQuang/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ValoQuang&repo=Foods-Ecommerce&show_owner=true)](https://github.com/ValoQuang/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ValoQuang&repo=PackageTemplate&show_owner=true)](https://github.com/ValoQuang/instafake)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ValoQuang&repo=Foods-Ecommerce&show_owner=true)](https://github.com/ValoQuang/countryProject)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
