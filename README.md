@@ -1,5 +1,5 @@
 
-
+<img src ="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=300&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="pic"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValoQuang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
