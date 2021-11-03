@@ -3,11 +3,12 @@
 
 - 🔭 I’m currently working on [Integrify front-end](https://github.com/ValoQuang/countryProject)
 
-- 🌱 I’m currently learning **React, Node Js, MongoDb, Firebase...**
+- 🌱 I’m currently learning **React, Node Js, MongoDb, Firebase, Three JS... **
+- Currently I am working on Three JS, my porfolio website, I love 3D, animation and I am using Three JS to make it.
 
 - 📫 How to reach me **quang.truong@integrify.io**
 
-- ⚡ Fun fact **I love to fly**
+- ⚡ Fun fact **I love to fly, learning about space**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
