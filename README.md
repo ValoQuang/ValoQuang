@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Quang</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Integrify front-end](https://github.com/ValoQuang/countryProject)
+- 🔭 I’m currently working on [My Space Theme Porfolio](https://github.com/ValoQuang/countryProject)
 
 - 🌱 I’m currently learning **React, Node Js, MongoDb, Firebase, Three JS... **
-- Currently I am working on Three JS, my porfolio website, I love 3D, animation and I am using Three JS to make it.
 
 - 📫 How to reach me **quang.truong@integrify.io**
 
