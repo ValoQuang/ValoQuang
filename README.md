@@ -3,11 +3,11 @@
   
   https://portfolio1995.herokuapp.com/
   
-- 🔭 I’m currently working on [Ecommerce Website](https://github.com/ValoQuang/eCommerce)
+- 🔭 I’m currently working on [Woolman Oy](https://woolman.co/))
 
 - 🌱 I’m currently learning **React, Node Js, MongoDb, Firebase, Three JS... **
 
-- 📫 How to reach me **quang.truong@integrify.io**
+- 📫 How to reach me **qtruongngoc95@gmail.com**
 
 - ⚡ Fun fact **I love to fly, learning about space**
 
