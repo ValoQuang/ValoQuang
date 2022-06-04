@@ -3,7 +3,7 @@
   
   https://portfolio1995.herokuapp.com/
   
-- 🔭 I’m currently working on [Woolman Oy](https://woolman.co/))
+- 🔭 I’m currently working on [Woolman Oy](https://woolman.co/)
 
 - 🌱 I’m currently learning **React, Node Js, MongoDb, Firebase, Three JS... **
 
