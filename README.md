@@ -3,7 +3,7 @@
   
 - 🔭 I’m currently working at [SayDuck](https://www.sayduck.com/)
 
-- 🌱 I’m currently learning **React, Node Js, MongoDb, Firebase, Three JS... **
+- 🌱 I’m currently learning **React, Node Js, MongoDb, Three JS, AWS... **
 
 - 📫 How to reach me **qtruongngoc95@gmail.com**
 
